@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+.util-pleft {
+  padding-left: 50px;
+}
+.util-pright {
+  padding-right: 50px;
+}
+.util-center {
+  text-align: center;
+}
+.util-mtop {
+  margin-top: 4rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: serif;
+}
+
+.jumbotron {
+  background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.6)), url(img/landing.jpeg) no-repeat center;
+  background-size: cover;
+  font-family: serif;
+  text-align: center;
+  height: 500px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+.display-4 {
+  margin-top: 8.4rem;
+}
+
+.about {
+  text-align: center;
+}
+.tact {
+  margin: 1rem;
+}
+
+.projects {
+  padding: 4rem 0;
+  background-color: rgb(80, 80, 80);
+  color: #F1F3F5;
+}
+.footer {
+  background-color: rgb(80, 80, 80);
+  color: #F1F3F5;
+}
+.links {
+  text-decoration: none;
+  color: #28A645
+}
